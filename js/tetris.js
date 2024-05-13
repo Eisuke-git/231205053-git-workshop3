@@ -22,7 +22,7 @@ var shapes = [
       1, 1, 1 ]
 ];
 var colors = [
-    'yellow', 'yellow', 'yellow', 'yellow', 'yellow', 'yellow', 'yellow'
+    'purple', 'purple', 'purple', 'purple', 'purple', 'purple', 'purple'
     //origin color='cyan', 'orange', 'blue', 'yellow', 'red', 'green', 'purple'
 ];
 
